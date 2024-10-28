@@ -1,0 +1,43 @@
+body {
+  font-family: Arial;
+  background-color: rgb(243, 241, 241);
+  text-align: center;
+  margin-top: 60px;
+}
+
+.centralizar {
+  background: rgba(222, 222, 222, 0.782);
+  width: 300px;
+  height: 200px;
+  margin: auto;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.centralizar-es {
+  background: rgba(222, 222, 222, 0.782);
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.hoje {
+  color: darkred;
+}
+
+.amanha {
+  color: darkblue;
+}
+a {
+  text-decoration: none;
+}
+h2 a {
+  color: seagreen;
+}
+p {
+  font-size: 20px;
+}
